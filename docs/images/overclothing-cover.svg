@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 640" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">OverClothing — da rua para o código</title>
+  <desc id="desc">Capa editorial em preto, branco e vermelho. Letras de grande formato, um hoodie desenhado em linhas e uma etiqueta com código de barras.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#292929" stroke-width="1"/></pattern>
+  </defs>
+  <path fill="#111110" d="M0 0h1600v640H0z"/>
+  <path fill="url(#grid)" d="M1050 0h550v568h-550z"/>
+  <path stroke="#454540" d="M56 89h1488M56 526h1488M1050 89v437"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g font-size="22" letter-spacing="3" fill="#e9e7df">
+      <text x="58" y="54">OC / ARQUIVO DIGITAL</text>
+      <text x="1542" y="54" text-anchor="end">STREETWEAR · PORTUGAL</text>
+    </g>
+    <text x="48" y="272" font-size="190" font-weight="900" letter-spacing="-9" fill="#eeede7">OVER</text>
+    <text x="52" y="420" font-size="147" font-weight="900" letter-spacing="-7" stroke="#eeede7" stroke-width="2">CLOTHING</text>
+    <text x="60" y="487" font-size="28" fill="#c5c3ba">Da rua para o código.</text>
+    <text x="1010" y="487" text-anchor="end" font-size="18" letter-spacing="3" fill="#c5c3ba">PHP / MYSQL / JS</text>
+  </g>
+  <g stroke="#deddd4" stroke-width="3" stroke-linejoin="round">
+    <path d="M1235 167q65-48 130 0l15 57 65 35 58 143-72 29-35-81v127h-194V350l-35 81-72-29 58-143 65-35z" fill="#1c1c1a"/>
+    <path d="M1235 167q65 10 130 0M1235 167l9 76 56 27 56-27 9-76M1300 270v52M1267 270v55M1245 378l-14 56h138l-14-56zM1202 458h194"/>
+    <path d="M1252 353h96" stroke="#ed472f" stroke-width="7"/>
+  </g>
+  <g transform="translate(1440 126) rotate(12)">
+    <path fill="#ed472f" d="M-39 0h78v151h-78z"/>
+    <circle cy="15" r="5" fill="#111110"/>
+    <path d="M0 10v-38" stroke="#e9e7df" stroke-width="2"/>
+    <text transform="translate(9 128) rotate(-90)" fill="#111110" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="32">OC / 01</text>
+  </g>
+  <path fill="#ed472f" d="M0 568h1600v72H0z"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="23" letter-spacing="3" fill="#111110">
+    <text x="60" y="613">CATÁLOGO. CONTAS. CARRINHO.</text>
+    <text x="1542" y="613" text-anchor="end">UM PROJETO WEB DE ORIGEM.</text>
+  </g>
+</svg>
